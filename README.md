@@ -1,6 +1,12 @@
 # Create a Prototype CMS/Data-store in minutes
 Using this Google Script (deployed as a web app), you can access a JSON representation of data in any unpublished spreadsheet in which you can access.
 
+## Demo
+```
+// 
+https://script.google.com/macros/s/AKfycbwCTqr4K4sIbr01-Y0BBGdR1eqXNj1l4F7JxM0oXb7nQyK936k/exec?tabname=<NAME-ON-TAB-GOES-HERE>&sheetid=<SHEET-ID-GOES-HERE>
+```
+
 ## Getting Started
 1. Create a new [Script as Web App](https://script.google.com/intro)
 2. Copy script from sheet2json.gs
