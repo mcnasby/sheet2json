@@ -3,7 +3,6 @@ Using this Google Script (deployed as a web app), you can access a JSON represen
 
 ## Demo
 ```
-// 
 https://script.google.com/macros/s/AKfycbwCTqr4K4sIbr01-Y0BBGdR1eqXNj1l4F7JxM0oXb7nQyK936k/exec?tabname=<NAME-ON-TAB-GOES-HERE>&sheetid=<SHEET-ID-GOES-HERE>
 ```
 
